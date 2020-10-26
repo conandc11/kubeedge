@@ -14,7 +14,7 @@ There are many modules which work in tandem to achieve edged's functionalities.
 
 ## Pod Management
 
-It is handles for pod addition, deletion and modification. It also tracks the health of the pods using pod status manager and pleg.
+It handles pod addition, deletion and modification. It also tracks the health of the pods using pod status manager and pleg.
 Its primary jobs are as follows:
 
 - Receives and handles pod addition/deletion/modification messages from metamanager.
